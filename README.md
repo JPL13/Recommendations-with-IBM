@@ -41,3 +41,4 @@ Perform assessment of the predicted vs. the actual values.
 
 
 
+![](https://github.com/JPL13/Recommendations-with-IBM)
